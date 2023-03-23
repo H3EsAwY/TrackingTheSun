@@ -3,7 +3,7 @@
  *
  * Written By: Hany Elesawy
  *
- * Version: v6.0
+ * Version: v6.2
  *
  * Version History:
  * v1.0 Added Quad LDR                                      - 2022.12.14
