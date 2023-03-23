@@ -6,7 +6,7 @@ This project was completed as part of the **Training_1_On_Mechatronics_MTE390 (i
 ## Project Overview
 The project aimed to create a solar tracker system that would optimize the amount of solar energy collected while also providing information on weather conditions in real-time. The system makes use of light sensors, temperature sensors, and a rain sensor to accurately monitor weather conditions, while also using a 2 servo motors to track the sun and maximize energy collection.
 
-The project's extensive documentation is contained in **DAST Book Final.pdf**, which provides a detailed account of the entire design and implementation process, including the hardware components used, circuit diagrams, and programming code. The report also includes detailed testing and validation results, demonstrating the effectiveness and accuracy of the solar tracker system in different weather conditions.
+The project's extensive documentation is contained in **[DAST Book Final.pdf](https://github.com/H3EsAwY/TrackingTheSun/blob/main/DAST%20Book%20Final.pdf)**, which provides a detailed account of the entire design and implementation process, including the hardware components used, circuit diagrams, and programming code. The report also includes detailed testing and validation results, demonstrating the effectiveness and accuracy of the solar tracker system in different weather conditions.
 
 ![image](https://user-images.githubusercontent.com/75787889/227113739-f211d9a4-123a-4a7c-9f07-20c165f405d4.png) 
 
