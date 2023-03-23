@@ -1,0 +1,67 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\variants\\eightanaloginputs"
+  },
+  {
+    "Sourcefile": "d:\\9- MTE\\lvl 300\\1- Fall\\Training 1 on Mechatronics\\Dual Axis Solar Tracker Project\\1- Code\\Final Versions\\Last Physically Tested Version\\V6.2_DualAxisRainLCD_DisablingSerial\\bin\\sketch\\V6.2_DualAxisRainLCD_DisablingSerial.ino.cpp",
+    "Include": "Servo.h",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\libraries\\Servo\\src"
+  },
+  {
+    "Sourcefile": "d:\\9- MTE\\lvl 300\\1- Fall\\Training 1 on Mechatronics\\Dual Axis Solar Tracker Project\\1- Code\\Final Versions\\Last Physically Tested Version\\V6.2_DualAxisRainLCD_DisablingSerial\\bin\\sketch\\V6.2_DualAxisRainLCD_DisablingSerial.ino.cpp",
+    "Include": "LiquidCrystal.h",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\libraries\\LiquidCrystal\\src"
+  },
+  {
+    "Sourcefile": "d:\\9- MTE\\lvl 300\\1- Fall\\Training 1 on Mechatronics\\Dual Axis Solar Tracker Project\\1- Code\\Final Versions\\Last Physically Tested Version\\V6.2_DualAxisRainLCD_DisablingSerial\\bin\\sketch\\V6.2_DualAxisRainLCD_DisablingSerial.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\libraries\\Servo\\src\\avr\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\libraries\\Servo\\src\\mbed\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\libraries\\Servo\\src\\megaavr\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\libraries\\Servo\\src\\nrf52\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\libraries\\Servo\\src\\sam\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\libraries\\Servo\\src\\samd\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\libraries\\Servo\\src\\stm32f4\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\libraries\\LiquidCrystal\\src\\LiquidCrystal.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
