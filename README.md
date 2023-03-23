@@ -34,5 +34,32 @@ The logic involves a series of steps that work together to ensure accurate and e
 
 ![image](https://user-images.githubusercontent.com/75787889/227119603-3bf6a8d7-6ddf-4c72-8d55-f229e8c363d3.png)
 
+## Photo Journal
+
+![image](https://user-images.githubusercontent.com/75787889/227121586-072e4279-560d-40fb-a9f2-c29c4188a0fc.png)
+
+![image](https://user-images.githubusercontent.com/75787889/227121618-25ca04a6-ba94-4ac2-b51c-316f24c2ec02.png)
+
+![image](https://user-images.githubusercontent.com/75787889/227122324-64944235-c591-4a00-b120-7ce87eb400a9.png)
+
+![image](https://user-images.githubusercontent.com/75787889/227122411-e122de18-4798-48d0-9968-73f7f9f86ff4.png)
+
+![image](https://user-images.githubusercontent.com/75787889/227121758-4adb8523-203a-4329-baaf-6e7289bb169e.png)
+
+![image](https://user-images.githubusercontent.com/75787889/227121786-6bd4b9ef-08c7-4f03-9b56-335e7227d58a.png)
+
+![20230114_233555](https://user-images.githubusercontent.com/75787889/227121857-ab12edd7-b6bd-497c-8195-86929e3fb0ed.jpg)
+
+![20230114_234853](https://user-images.githubusercontent.com/75787889/227121897-1b85394f-3cd4-4949-9972-a25ae0a412c5.jpg)
+
+![20230116_001851](https://user-images.githubusercontent.com/75787889/227121994-ed1a9aea-85a0-4712-a9ee-c28f4f290fc3.jpg)
+
+![20230116_004705](https://user-images.githubusercontent.com/75787889/227122018-5f0a8a51-5b99-44ee-8259-77e1d4a70fbf.jpg)
+
+![image](https://user-images.githubusercontent.com/75787889/227122599-da2c2798-7033-44a7-aeb5-67ad573579be.png)
+
+![image](https://user-images.githubusercontent.com/75787889/227122652-3433158e-8c60-4f06-9ab6-9e518a9e1d77.png)
+
+
 
 
