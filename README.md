@@ -11,7 +11,7 @@ The project's extensive documentation is contained in **[DAST Book Final.pdf](ht
 ![image](https://user-images.githubusercontent.com/75787889/227113739-f211d9a4-123a-4a7c-9f07-20c165f405d4.png) 
 
 ## Hardware Components and Overall Budget Analysis
-All prices are in Egyptian Pound (EGP)
+All prices are in Egyptian Pound (EGP) @ January 2023
 
 ![image](https://user-images.githubusercontent.com/75787889/227119376-cd952b3e-7283-47eb-be35-6168204bacba.png)
 
